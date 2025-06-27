@@ -1,0 +1,15 @@
+HTTP STATUS CODES
+
+2XX  SUCCESS
+	1.	200 – Success Full / Ok ( Request successful (GET, POST, etc). )
+	2.	201 – Created ( New resource created successfully (like new user, post, etc) ) 
+	3.	204 – No Content ( Request successful but no content to return. )
+
+
+4XX  CLIENT ERROR
+	1.	400 – Bad Request ( Server can’t understand the request due to invalid syntax. )
+	2.	401 – Unauthorized ( Authentication needed (like login). )
+	3.	403 – Forbidden ( You’re not allowed to access the resource ) 
+	4.	404 – Not Found ( Requested page/resource doesn’t exist. )
+	5.	408 – Request Timeout
+
