@@ -1,0 +1,449 @@
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"User registered: sivakumar"}
+{"level":"info","message":"User logged in: sivakumar"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Profile pic updated: 6863821b9502cc0195db0459"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Profile pic updated: 6863821b9502cc0195db0459"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Report submitted by undefined"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Report submission failed: Cannot destructure property 'username' of 'req.user.username' as it is undefined.","stack":"TypeError: Cannot destructure property 'username' of 'req.user.username' as it is undefined.\n    at submitReport (I:\\Job\\Day 08\\project\\controllers\\report.controller.js:8:17)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at I:\\Job\\Day 08\\project\\middlewares\\validate.middleware.js:4:3\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at module.exports (I:\\Job\\Day 08\\project\\middlewares\\auth.middleware.js:13:5)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:117:3)"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Report submitted by undefined"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Report submitted by undefined"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Report submission failed:"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Report submission failed:"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Report submission failed:"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Report submitted by undefined"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Report submitted by undefined"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"User registered: sivakumar"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"User logged in: sivakumar"}
+{"level":"info","message":"Profile pic updated: 68638f5be1fce5faf927df1d"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Report submitted by undefined"}
+{"level":"info","message":"Report submitted by undefined"}
+{"level":"info","message":"User registered: sabari"}
+{"level":"info","message":"User logged in: sabari"}
+{"level":"info","message":"Report submitted by sabari"}
+{"level":"info","message":"Profile pic updated: 68639141a245b8ca3dee8850"}
+{"level":"info","message":"User registered: si"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"User registered: si"}
+{"level":"info","message":"User registered: s"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"User registered: sivakumar"}
+{"level":"info","message":"User logged in: sivakumar"}
+{"level":"error","message":"Profile update failed: Cannot read properties of undefined (reading 'filename')","stack":"TypeError: Cannot read properties of undefined (reading 'filename')\n    at updateProfilePic (I:\\Job\\Day 08\\project\\controllers\\user.controller.js:8:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at processProfileImage (I:\\Job\\Day 08\\project\\middlewares\\multer.middleware.js:10:25)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at multerMiddleware (I:\\Job\\Day 08\\project\\node_modules\\multer\\lib\\make-middleware.js:19:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at module.exports (I:\\Job\\Day 08\\project\\middlewares\\auth.middleware.js:13:5)"}
+{"level":"error","message":"Profile update failed: Cannot read properties of undefined (reading 'filename')","stack":"TypeError: Cannot read properties of undefined (reading 'filename')\n    at updateProfilePic (I:\\Job\\Day 08\\project\\controllers\\user.controller.js:8:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at processProfileImage (I:\\Job\\Day 08\\project\\middlewares\\multer.middleware.js:10:25)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at multerMiddleware (I:\\Job\\Day 08\\project\\node_modules\\multer\\lib\\make-middleware.js:19:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at module.exports (I:\\Job\\Day 08\\project\\middlewares\\auth.middleware.js:13:5)"}
+{"level":"error","message":"Profile update failed: Cannot read properties of undefined (reading 'filename')","stack":"TypeError: Cannot read properties of undefined (reading 'filename')\n    at updateProfilePic (I:\\Job\\Day 08\\project\\controllers\\user.controller.js:8:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at processProfileImage (I:\\Job\\Day 08\\project\\middlewares\\multer.middleware.js:10:25)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at multerMiddleware (I:\\Job\\Day 08\\project\\node_modules\\multer\\lib\\make-middleware.js:19:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at module.exports (I:\\Job\\Day 08\\project\\middlewares\\auth.middleware.js:13:5)"}
+{"level":"error","message":"Profile update failed: Cannot read properties of undefined (reading 'filename')","stack":"TypeError: Cannot read properties of undefined (reading 'filename')\n    at updateProfilePic (I:\\Job\\Day 08\\project\\controllers\\user.controller.js:8:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at processProfileImage (I:\\Job\\Day 08\\project\\middlewares\\multer.middleware.js:10:25)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at multerMiddleware (I:\\Job\\Day 08\\project\\node_modules\\multer\\lib\\make-middleware.js:19:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at module.exports (I:\\Job\\Day 08\\project\\middlewares\\auth.middleware.js:13:5)"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Profile update failed: Cannot read properties of undefined (reading 'filename')","stack":"TypeError: Cannot read properties of undefined (reading 'filename')\n    at updateProfilePic (I:\\Job\\Day 08\\project\\controllers\\user.controller.js:8:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at processProfileImage (I:\\Job\\Day 08\\project\\middlewares\\multer.middleware.js:10:25)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at multerMiddleware (I:\\Job\\Day 08\\project\\node_modules\\multer\\lib\\make-middleware.js:19:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at module.exports (I:\\Job\\Day 08\\project\\middlewares\\auth.middleware.js:13:5)"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Profile update failed: Cannot read properties of undefined (reading 'filename')","stack":"TypeError: Cannot read properties of undefined (reading 'filename')\n    at updateProfilePic (I:\\Job\\Day 08\\project\\controllers\\user.controller.js:8:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at processProfileImage (I:\\Job\\Day 08\\project\\middlewares\\multer.middleware.js:10:25)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at multerMiddleware (I:\\Job\\Day 08\\project\\node_modules\\multer\\lib\\make-middleware.js:19:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at module.exports (I:\\Job\\Day 08\\project\\middlewares\\auth.middleware.js:13:5)"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Profile update failed: Cannot read properties of undefined (reading 'filename')","stack":"TypeError: Cannot read properties of undefined (reading 'filename')\n    at updateProfilePic (I:\\Job\\Day 08\\project\\controllers\\user.controller.js:8:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at processProfileImage (I:\\Job\\Day 08\\project\\middlewares\\multer.middleware.js:10:25)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at multerMiddleware (I:\\Job\\Day 08\\project\\node_modules\\multer\\lib\\make-middleware.js:19:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at module.exports (I:\\Job\\Day 08\\project\\middlewares\\auth.middleware.js:13:5)"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Profile pic updated: 68639141a245b8ca3dee8850"}
+{"level":"info","message":"Report submitted by sabari"}
+{"level":"info","message":"Report submitted by sivakumar"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Profile pic updated: 6863a32ee81c302fe05644d9"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:7272"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"User registered: sivakumar"}
+{"level":"info","message":"User logged in: sivakumar"}
+{"level":"info","message":"Profile pic updated: 6863c508d94a4b0c38c00e0c"}
+{"level":"info","message":"User registered: sivakumar"}
+{"level":"info","message":"User logged in: sivakumar"}
+{"level":"info","message":"Profile pic updated: 6863c5766a8e159f746ff017"}
+{"level":"info","message":"Report submitted by sivakumar"}
+{"level":"info","message":"User registered: sabari"}
+{"level":"info","message":"User logged in: sabari"}
+{"level":"error","message":"Profile update failed: Cannot read properties of undefined (reading 'filename')","stack":"TypeError: Cannot read properties of undefined (reading 'filename')\n    at updateProfilePic (I:\\Job\\Day 08\\project\\controllers\\user.controller.js:8:41)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at processProfileImage (I:\\Job\\Day 08\\project\\middlewares\\multer.middleware.js:10:25)\n    at Layer.handleRequest (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (I:\\Job\\Day 08\\project\\node_modules\\router\\lib\\route.js:157:13)\n    at done (I:\\Job\\Day 08\\project\\node_modules\\multer\\lib\\make-middleware.js:59:7)\n    at indicateDone (I:\\Job\\Day 08\\project\\node_modules\\multer\\lib\\make-middleware.js:63:68)\n    at Multipart.<anonymous> (I:\\Job\\Day 08\\project\\node_modules\\multer\\lib\\make-middleware.js:182:7)\n    at Multipart.emit (node:events:518:28)"}
+{"level":"info","message":"Profile pic updated: 6863c6566a8e159f746ff020"}
+{"level":"info","message":"Report submitted by sabari"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"User registered: somu"}
+{"level":"info","message":"User logged in: somu"}
+{"level":"info","message":"Profile pic updated: 6863c9cd06ed3454d0075ffa"}
+{"level":"info","message":"Report submitted by somu"}
+{"level":"info","message":"Report submitted by somu"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Report submitted by somu"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"User logged in: sabari"}
+{"level":"info","message":"Report submitted by sabari"}
+{"level":"info","message":"Report submitted by sabari"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Report submitted by sabari"}
+{"level":"info","message":"Server running on http://localhost:6262"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Report submitted by sabari"}
+undefined
+undefined
+undefined
+undefined
+{
+  message: 'Server running on http://localhost:6262',
+  level: 'info',
+  timestamp: '2025-07-01 18:36:23'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-01 18:36:23'
+}
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Report submitted by sabari', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{
+  message: 'Profile pic updated: 6863c9cd06ed3454d0075ffa',
+  level: 'info'
+}
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
+{ message: 'Server running on http://localhost:6262', level: 'info' }
+{ message: 'MongoDB connected', level: 'info' }
