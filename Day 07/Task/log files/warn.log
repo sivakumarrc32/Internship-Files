@@ -1,0 +1,25 @@
+{
+  message: 'Login attempt failed: User not found - durqga',
+  level: 'warn',
+  timestamp: '2025-06-30 15:54:50'
+}
+{
+  message: 'Login attempt failed: User not found - hiiu',
+  level: 'warn',
+  timestamp: '2025-06-30 17:16:03'
+}
+{
+  message: 'User already exists: hiiu',
+  level: 'warn',
+  timestamp: '2025-06-30 18:01:16'
+}
+{
+  message: 'Login attempt failed: User not found - sivakumar',
+  level: 'warn',
+  timestamp: '2025-06-30 19:39:59'
+}
+{
+  message: 'Login attempt failed: User not found - sivakumarrc',
+  level: 'warn',
+  timestamp: '2025-06-30 19:46:46'
+}
