@@ -1,0 +1,883 @@
+{
+  message: 'Signup Error: services is not defined',
+  level: 'error',
+  timestamp: '2025-07-23 11:48:36'
+}
+{
+  message: "Signup Error: Cannot read properties of undefined (reading 'findOne')",
+  level: 'error',
+  timestamp: '2025-07-23 11:48:58'
+}
+{
+  message: "Signup Error: Cannot read properties of undefined (reading 'findOne')",
+  level: 'error',
+  timestamp: '2025-07-23 11:50:18'
+}
+{
+  message: "Signup Error: Cannot read properties of undefined (reading 'findOne')",
+  level: 'error',
+  timestamp: '2025-07-23 11:50:20'
+}
+{
+  message: "Signup Error: Cannot read properties of undefined (reading 'find')",
+  level: 'error',
+  timestamp: '2025-07-23 11:52:54'
+}
+{
+  message: 'Signup Error: Invalid status code: undefined. Status code must be an integer.',
+  level: 'error',
+  timestamp: '2025-07-23 11:55:59'
+}
+{
+  message: 'Signup Error: Invalid status code: undefined. Status code must be an integer.',
+  level: 'error',
+  timestamp: '2025-07-23 11:59:55'
+}
+{
+  message: 'Signup Error: Invalid status code: undefined. Status code must be an integer.',
+  level: 'error',
+  timestamp: '2025-07-23 12:02:47'
+}
+{
+  message: 'Signup Error: Invalid status code: undefined. Status code must be an integer.',
+  level: 'error',
+  timestamp: '2025-07-23 12:03:37'
+}
+{
+  message: 'Resend OTP Error: update.save is not a function',
+  level: 'error',
+  timestamp: '2025-07-23 13:54:56'
+}
+{
+  message: 'Login Error: secretOrPrivateKey must have a value',
+  level: 'error',
+  timestamp: '2025-07-23 14:01:08'
+}
+{
+  message: 'Login Error: secretOrPrivateKey must have a value',
+  level: 'error',
+  timestamp: '2025-07-23 14:02:23'
+}
+{
+  message: 'Login Error: update.save is not a function',
+  level: 'error',
+  timestamp: '2025-07-23 14:02:38'
+}
+{
+  message: "Login Error: Cannot read properties of undefined (reading 'findOne')",
+  level: 'error',
+  timestamp: '2025-07-23 15:33:45'
+}
+{
+  message: "Login Error: Cannot read properties of undefined (reading 'findOne')",
+  level: 'error',
+  timestamp: '2025-07-23 15:34:02'
+}
+{
+  message: "Signup Error: Cannot read properties of undefined (reading 'create')",
+  level: 'error',
+  timestamp: '2025-07-23 15:35:20'
+}
+{
+  message: "Admin Signup Error: Cannot read properties of null (reading '_id')",
+  level: 'error',
+  timestamp: '2025-07-23 16:41:32'
+}
+{
+  message: "Admin Signup Error: Cannot access 'Admin' before initialization",
+  level: 'error',
+  timestamp: '2025-07-23 16:43:56'
+}
+{
+  message: `Google Login Error: User validation failed: userName: Cast to string failed for value "{ familyName: undefined, givenName: 'Project mail' }" (type Object) at path "userName"`,
+  level: 'error',
+  timestamp: '2025-07-24 12:09:05'
+}
+{
+  message: "Google Login Error: Cannot read properties of null (reading '_id')",
+  level: 'error',
+  timestamp: '2025-07-24 12:20:03'
+}
+{
+  message: 'Google Login Error: E11000 duplicate key error collection: Bike-Rental-System.users index: mobile_1 dup key: { mobile: "9342131619" }',
+  level: 'error',
+  timestamp: '2025-07-24 12:23:14'
+}
+{
+  message: "Add Location Error: Cannot read properties of undefined (reading 'create')",
+  level: 'error',
+  timestamp: '2025-07-24 16:08:08'
+}
+{
+  message: "Add Location Error: Cannot read properties of undefined (reading 'create')",
+  level: 'error',
+  timestamp: '2025-07-24 16:10:05'
+}
+{
+  message: 'Add Plan Error: Plan validation failed: charges: Cast to Number failed for value "20rs/hr" (type string) at path "charges"',
+  level: 'error',
+  timestamp: '2025-07-24 16:35:15'
+}
+{
+  message: 'Add Bike Error: bikeImage.mv is not a function',
+  level: 'error',
+  timestamp: '2025-07-24 17:32:38'
+}
+{
+  message: 'Add Bike Error: bikePlan.map is not a function',
+  level: 'error',
+  timestamp: '2025-07-24 18:03:52'
+}
+{
+  message: 'Get Bikes Error: services.GetBikes is not a function',
+  level: 'error',
+  timestamp: '2025-07-24 18:31:29'
+}
+{
+  message: 'Booking Error: services is not defined',
+  level: 'error',
+  timestamp: '2025-07-25 11:43:31'
+}
+{
+  message: 'Booking Error: html is not defined',
+  level: 'error',
+  timestamp: '2025-07-25 11:56:24'
+}
+{
+  message: "Booking Error: The '$type' string field is required to be 'date' or 'timestamp': {$currentDate: {field : {$type: 'date'}}}",
+  level: 'error',
+  timestamp: '2025-07-25 12:14:24'
+}
+{
+  message: 'Booking Error: Request failed with status code 400',
+  level: 'error',
+  timestamp: '2025-07-25 13:42:47'
+}
+{
+  message: "Booking Error: Cannot access 'response' before initialization",
+  level: 'error',
+  timestamp: '2025-07-25 13:59:00'
+}
+{
+  message: 'Booking Error: Request failed with status code 400',
+  level: 'error',
+  timestamp: '2025-07-25 14:12:08'
+}
+{
+  message: 'Capture Payment Error: services.capturePayment is not a function',
+  level: 'error',
+  timestamp: '2025-07-25 14:14:51'
+}
+{
+  message: 'Booking Error: generateAccessToken is not defined',
+  level: 'error',
+  timestamp: '2025-07-25 14:15:28'
+}
+{
+  message: 'Booking Error: Request failed with status code 404',
+  level: 'error',
+  timestamp: '2025-07-25 14:16:09'
+}
+{
+  message: 'Booking Error: Bookings is not defined',
+  level: 'error',
+  timestamp: '2025-07-25 14:22:11'
+}
+{
+  message: 'Booking Error: Request failed with status code 404',
+  level: 'error',
+  timestamp: '2025-07-25 14:22:59'
+}
+{
+  message: 'Booking Capture Error: Request failed with status code 404',
+  level: 'error',
+  timestamp: '2025-07-25 14:25:59'
+}
+{
+  message: 'Booking Error: Request failed with status code 422',
+  level: 'error',
+  timestamp: '2025-07-25 16:07:20'
+}
+{
+  message: 'Booking Error: Request failed with status code 422',
+  level: 'error',
+  timestamp: '2025-07-25 16:08:24'
+}
+{
+  message: 'Booking Error: Request failed with status code 422',
+  level: 'error',
+  timestamp: '2025-07-25 16:09:50'
+}
+{
+  message: 'Booking Error: Request failed with status code 422',
+  level: 'error',
+  timestamp: '2025-07-25 16:10:31'
+}
+{
+  message: 'Booking Error: Request failed with status code 422',
+  level: 'error',
+  timestamp: '2025-07-25 16:12:25'
+}
+{
+  message: 'Status: 422',
+  level: 'error',
+  timestamp: '2025-07-25 16:12:25'
+}
+{
+  message: `Data: {"name":"UNPROCESSABLE_ENTITY","details":[{"field":"/purchase_units/@reference_id=='68835f8ff02f312ec7c040d4'/amount/value","value":"0.25","issue":"AMOUNT_MISMATCH","description":"Should equal item_total + tax_total + shipping + handling + insurance - shipping_discount - discount."}],"message":"The requested action could not be performed, semantically incorrect, or failed business validation.","debug_id":"f2886908e5337","links":[{"href":"https://developer.paypal.com/api/rest/reference/orders/v2/errors/#AMOUNT_MISMATCH","rel":"information_link","method":"GET"}]}`,
+  level: 'error',
+  timestamp: '2025-07-25 16:12:25'
+}
+{
+  message: 'Cancel Booking Error: res is not defined',
+  level: 'error',
+  timestamp: '2025-07-25 19:04:15'
+}
+{
+  message: 'Cancel Booking Error: res is not defined',
+  level: 'error',
+  timestamp: '2025-07-25 19:07:33'
+}
+{
+  message: 'Cancel Booking Error: res is not defined',
+  level: 'error',
+  timestamp: '2025-07-25 19:10:07'
+}
+{
+  message: 'Cancel Booking Error: res is not defined',
+  level: 'error',
+  timestamp: '2025-07-25 19:10:48'
+}
+{
+  message: 'Cancel Booking Error: res is not defined',
+  level: 'error',
+  timestamp: '2025-07-25 19:16:21'
+}
+{
+  message: 'Cancel Booking Error: res is not defined',
+  level: 'error',
+  timestamp: '2025-07-25 19:24:55'
+}
+{
+  message: 'Cancel Booking Error: res is not defined',
+  level: 'error',
+  timestamp: '2025-07-25 19:29:02'
+}
+{
+  message: 'Cancel Booking Error: res is not defined',
+  level: 'error',
+  timestamp: '2025-07-25 19:31:23'
+}
+{
+  message: `Booking History Error: Cast to ObjectId failed for value "{ userId: '688393081244bd158461654d' }" (type Object) at path "_id" for model "Booking"`,
+  level: 'error',
+  timestamp: '2025-07-25 20:09:48'
+}
+{
+  message: 'Signup Error: E11000 duplicate key error collection: Bike-Rental-System.users index: mobile_1 dup key: { mobile: "9364267782" }',
+  level: 'error',
+  timestamp: '2025-07-26 12:09:07'
+}
+{
+  message: 'Admin Signup Error: E11000 duplicate key error collection: Bike-Rental-System.admins index: mobile_1 dup key: { mobile: "9585946556" }',
+  level: 'error',
+  timestamp: '2025-07-26 13:15:55'
+}
+{
+  message: 'Add Plan Error: Plan validation failed: planName: `3Days` is not a valid enum value for path `planName`.',
+  level: 'error',
+  timestamp: '2025-07-26 13:54:26'
+}
+{
+  message: 'Add Bike Error: Cast to ObjectId failed for value "68820f45f644589701328a7" (type string) at path "city" for model "Bike"',
+  level: 'error',
+  timestamp: '2025-07-26 14:02:29'
+}
+{
+  message: 'Get Review Error: Cannot populate path `bike` because it is not in your schema. Set the `strictPopulate` option to false to override.',
+  level: 'error',
+  timestamp: '2025-07-26 18:15:30'
+}
+{
+  message: 'Edit Bike Error: bikeImage is not defined',
+  level: 'error',
+  timestamp: '2025-07-28 10:27:53'
+}
+{
+  message: 'Signup Error: sendSMS is not a function',
+  level: 'error',
+  timestamp: '2025-07-28 13:40:50'
+}
+{
+  message: 'Signup Error: E11000 duplicate key error collection: Bike-Rental-System.registers index: mobile_1 dup key: { mobile: "9342131619" }',
+  level: 'error',
+  timestamp: '2025-07-28 13:41:19'
+}
+{
+  message: "Add Agent Bike Error: Cannot destructure property 'agentId' of 'body' as it is undefined.",
+  level: 'error',
+  timestamp: '2025-07-29 10:42:07'
+}
+{
+  message: 'Add Agent Bike Error: AgentBike validation failed: mileage: Cast to Number failed for value "50 kmpl" (type string) at path "mileage"',
+  level: 'error',
+  timestamp: '2025-07-29 10:48:15'
+}
+{
+  message: "Admin Login Error: Cannot read properties of undefined (reading 'findOne')",
+  level: 'error',
+  timestamp: '2025-07-29 10:58:55'
+}
+{
+  message: 'Admin Signup Error: Session validation failed: role: Cast to ObjectId failed for value "admin" (type string) at path "role" because of "BSONError"',
+  level: 'error',
+  timestamp: '2025-07-29 18:03:19'
+}
+{
+  message: "Get Agent Bike Error: Cannot access 'AgentBike' before initialization",
+  level: 'error',
+  timestamp: '2025-07-30 10:32:24'
+}
+{
+  message: `Get Agent Bike Error: Schema hasn't been registered for model "User".\n` +
+    'Use mongoose.model(name, schema)',
+  level: 'error',
+  timestamp: '2025-07-30 10:32:50'
+}
+{
+  message: `Get Agent Bike Error: Schema hasn't been registered for model "User".\n` +
+    'Use mongoose.model(name, schema)',
+  level: 'error',
+  timestamp: '2025-07-30 10:33:52'
+}
+{
+  message: `Get Agent Bike Error: Schema hasn't been registered for model "User".\n` +
+    'Use mongoose.model(name, schema)',
+  level: 'error',
+  timestamp: '2025-07-30 10:35:21'
+}
+{
+  message: 'Get Agent Bike Error: Cannot populate path `-password` because it is not in your schema. Set the `strictPopulate` option to false to override.',
+  level: 'error',
+  timestamp: '2025-07-30 10:38:45'
+}
+{
+  message: "Approve Agent Bike Error: Cannot read properties of undefined (reading 'status')",
+  level: 'error',
+  timestamp: '2025-07-30 10:49:49'
+}
+{
+  message: "Approve Agent Bike Error: Cannot read properties of undefined (reading 'status')",
+  level: 'error',
+  timestamp: '2025-07-30 10:50:42'
+}
+{
+  message: "Approve Agent Bike Error: Cannot read properties of undefined (reading 'status')",
+  level: 'error',
+  timestamp: '2025-07-30 10:51:16'
+}
+{
+  message: "Approve Agent Bike Error: Cannot read properties of undefined (reading 'status')",
+  level: 'error',
+  timestamp: '2025-07-30 10:52:16'
+}
+{
+  message: "Approve Agent Bike Error: Cannot read properties of undefined (reading 'status')",
+  level: 'error',
+  timestamp: '2025-07-30 10:53:33'
+}
+{
+  message: 'Approve Agent Bike Error: Bike validation failed: city: Cast to ObjectId failed for value "madurai" (type string) at path "city" because of "BSONError"',
+  level: 'error',
+  timestamp: '2025-07-30 10:54:26'
+}
+{
+  message: 'Create Admin Error: Session validation failed: role: Cast to ObjectId failed for value "admin" (type string) at path "role" because of "BSONError"',
+  level: 'error',
+  timestamp: '2025-07-30 12:34:02'
+}
+{
+  message: 'Create Admin Error: E11000 duplicate key error collection: Bike-Rental-System.registers index: mobile_1 dup key: { mobile: "7603828233" }',
+  level: 'error',
+  timestamp: '2025-07-30 12:37:19'
+}
+{
+  message: 'Create Admin Error: E11000 duplicate key error collection: Bike-Rental-System.registers index: mobile_1 dup key: { mobile: "7603828233" }',
+  level: 'error',
+  timestamp: '2025-07-30 12:38:03'
+}
+{
+  message: "Admin Logout Error: Cannot read properties of undefined (reading 'findOne')",
+  level: 'error',
+  timestamp: '2025-07-30 12:45:12'
+}
+{
+  message: 'Admin Logout Error: AdminSession is not defined',
+  level: 'error',
+  timestamp: '2025-07-30 12:46:31'
+}
+{
+  message: 'Signup Error: Session validation failed: role: `customer` is not a valid enum value for path `role`.',
+  level: 'error',
+  timestamp: '2025-07-30 12:52:32'
+}
+{
+  message: "Approve Agent Bike Error: Cannot read properties of undefined (reading 'status')",
+  level: 'error',
+  timestamp: '2025-07-30 17:26:26'
+}
+{
+  message: 'Approve Agent Bike Error: Cast to ObjectId failed for value "madurai" (type string) at path "city" for model "Plan"',
+  level: 'error',
+  timestamp: '2025-07-30 17:28:22'
+}
+{
+  message: 'Add Agent Bike Error: Location is not defined',
+  level: 'error',
+  timestamp: '2025-07-30 17:54:34'
+}
+{
+  message: 'Add Agent Bike Error: Parameter "filter" to find() must be an object, got "madurai" (type string)',
+  level: 'error',
+  timestamp: '2025-07-30 17:54:58'
+}
+{
+  message: 'Signup Error: E11000 duplicate key error collection: Bike-Rental-System.registers index: mobile_1 dup key: { mobile: "+918778546881" }',
+  level: 'error',
+  timestamp: '2025-07-30 18:03:43'
+}
+{
+  message: 'Signup Error: E11000 duplicate key error collection: Bike-Rental-System.registers index: mobile_1 dup key: { mobile: "+918778546881" }',
+  level: 'error',
+  timestamp: '2025-07-30 18:04:39'
+}
+{
+  message: "Booking Error: Cannot read properties of undefined (reading 'replace')",
+  level: 'error',
+  timestamp: '2025-07-31 13:18:06'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 13:18:06'
+}
+{
+  message: "Booking Error: Cannot read properties of undefined (reading 'replace')",
+  level: 'error',
+  timestamp: '2025-07-31 13:20:04'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 13:20:04'
+}
+{
+  message: 'Booking Error: bike is not defined',
+  level: 'error',
+  timestamp: '2025-07-31 13:21:10'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 13:21:10'
+}
+{
+  message: "Booking Error: Cannot read properties of undefined (reading 'replace')",
+  level: 'error',
+  timestamp: '2025-07-31 13:21:55'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 13:21:55'
+}
+{
+  message: "Booking Error: Cannot read properties of undefined (reading 'replace')",
+  level: 'error',
+  timestamp: '2025-07-31 13:23:03'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 13:23:03'
+}
+{
+  message: "Booking Error: Cannot read properties of undefined (reading 'replace')",
+  level: 'error',
+  timestamp: '2025-07-31 13:26:01'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 13:26:01'
+}
+{
+  message: 'Booking Error: bikeName is not defined',
+  level: 'error',
+  timestamp: '2025-07-31 13:27:26'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 13:27:26'
+}
+{
+  message: 'Booking Error: Request failed with status code 400',
+  level: 'error',
+  timestamp: '2025-07-31 13:36:38'
+}
+{
+  message: 'Status: 400',
+  level: 'error',
+  timestamp: '2025-07-31 13:36:38'
+}
+{
+  message: `Data: {"name":"INVALID_REQUEST","message":"Request is not well-formed, syntactically incorrect, or violates schema.","debug_id":"f14471646d3b2","details":[{"field":"/purchase_units/@reference_id=='688b240de14499c296f2c090'/items/0/name","value":"","location":"body","issue":"MISSING_REQUIRED_PARAMETER","description":"A required field / parameter is missing."}],"links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_REQUIRED_PARAMETER","rel":"information_link","encType":"application/json"}]}`,
+  level: 'error',
+  timestamp: '2025-07-31 13:36:38'
+}
+{
+  message: 'Booking Error: Request failed with status code 400',
+  level: 'error',
+  timestamp: '2025-07-31 13:38:19'
+}
+{
+  message: 'Status: 400',
+  level: 'error',
+  timestamp: '2025-07-31 13:38:19'
+}
+{
+  message: `Data: {"name":"INVALID_REQUEST","message":"Request is not well-formed, syntactically incorrect, or violates schema.","debug_id":"f7917294722ba","details":[{"field":"/purchase_units/@reference_id=='688b2471a7a1ad610c3218c3'/items/0/name","value":"","location":"body","issue":"MISSING_REQUIRED_PARAMETER","description":"A required field / parameter is missing."}],"links":[{"href":"https://developer.paypal.com/docs/api/orders/v2/#error-MISSING_REQUIRED_PARAMETER","rel":"information_link","encType":"application/json"}]}`,
+  level: 'error',
+  timestamp: '2025-07-31 13:38:19'
+}
+{
+  message: 'Booking Capture Error: Invalid time value',
+  level: 'error',
+  timestamp: '2025-07-31 13:40:22'
+}
+{
+  message: 'Booking Error: returnDate is not defined',
+  level: 'error',
+  timestamp: '2025-07-31 13:43:42'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 13:43:42'
+}
+{
+  message: "Booking Capture Error: Cannot read properties of null (reading 'bikeName')",
+  level: 'error',
+  timestamp: '2025-07-31 13:44:54'
+}
+{
+  message: "Booking Capture Error: Cannot read properties of null (reading 'userId')",
+  level: 'error',
+  timestamp: '2025-07-31 13:46:37'
+}
+{
+  message: "Cancel Booking Error: Cannot read properties of null (reading 'bikeCount')",
+  level: 'error',
+  timestamp: '2025-07-31 13:56:34'
+}
+{
+  message: 'Return Bike Error: bikeId is not defined',
+  level: 'error',
+  timestamp: '2025-07-31 14:09:12'
+}
+{
+  message: 'Booking History Error: Cannot populate path `planId` because it is not in your schema. Set the `strictPopulate` option to false to override.',
+  level: 'error',
+  timestamp: '2025-07-31 14:11:30'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-07-31 14:29:09'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 14:29:09'
+}
+{
+  message: 'Booking Error: res is not defined',
+  level: 'error',
+  timestamp: '2025-07-31 15:35:57'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 15:35:57'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-07-31 15:43:28'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 15:43:28'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-07-31 15:46:25'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 15:46:25'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-07-31 15:55:19'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-07-31 15:55:19'
+}
+{
+  message: 'Create Admin Error: Cast to ObjectId failed for value "68904d3a9ab4739029d9294" (type string) at path "_id" for model "Register"',
+  level: 'error',
+  timestamp: '2025-08-04 11:48:31'
+}
+{
+  message: "Create Admin Error: Cannot read properties of null (reading 'role')",
+  level: 'error',
+  timestamp: '2025-08-04 11:48:43'
+}
+{
+  message: 'Add Plan Error: Cast to ObjectId failed for value "string" (type string) at path "city" for model "Plan"',
+  level: 'error',
+  timestamp: '2025-08-04 14:20:03'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-08-04 15:47:33'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-04 15:47:33'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-08-04 15:49:07'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-04 15:49:07'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-08-04 15:49:34'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-04 15:49:34'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-08-04 15:50:24'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-04 15:50:24'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-08-04 15:50:57'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-04 15:50:57'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-08-04 15:51:43'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-04 15:51:43'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-08-04 15:56:00'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-04 15:56:00'
+}
+{
+  message: "Booking Capture Error: Cannot read properties of null (reading 'userId')",
+  level: 'error',
+  timestamp: '2025-08-04 16:10:29'
+}
+{
+  message: 'Login Error: Session validation failed: role: Cast to ObjectId failed for value "customer" (type string) at path "role" because of "BSONError"',
+  level: 'error',
+  timestamp: '2025-08-04 18:33:29'
+}
+{
+  message: 'Signup Error: Session validation failed: role: Cast to ObjectId failed for value "customer" (type string) at path "role" because of "BSONError"',
+  level: 'error',
+  timestamp: '2025-08-04 18:36:43'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-08-05 12:00:45'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 12:00:45'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-08-05 12:06:33'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 12:06:33'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'length')",
+  level: 'error',
+  timestamp: '2025-08-05 12:11:19'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 12:11:19'
+}
+{
+  message: 'Booking Error: isBikeAvailable is not defined',
+  level: 'error',
+  timestamp: '2025-08-05 12:12:51'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 12:12:51'
+}
+{
+  message: 'Booking Error: Booking is not defined',
+  level: 'error',
+  timestamp: '2025-08-05 12:13:09'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 12:13:09'
+}
+{
+  message: 'Booking Error: res is not defined',
+  level: 'error',
+  timestamp: '2025-08-05 12:15:24'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 12:15:24'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-08-05 12:22:27'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 12:22:27'
+}
+{
+  message: "Booking Error: Cannot read properties of null (reading 'bikeBrand')",
+  level: 'error',
+  timestamp: '2025-08-05 12:24:27'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 12:24:27'
+}
+{
+  message: 'Booking Error: dropTime is not defined',
+  level: 'error',
+  timestamp: '2025-08-05 16:16:26'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 16:16:26'
+}
+{
+  message: "Booking Error: Cannot read properties of undefined (reading 'trim')",
+  level: 'error',
+  timestamp: '2025-08-05 18:57:53'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 18:57:53'
+}
+{
+  message: "Booking Error: Cannot read properties of undefined (reading 'trim')",
+  level: 'error',
+  timestamp: '2025-08-05 18:59:32'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 18:59:32'
+}
+{
+  message: "Booking Error: Cannot read properties of undefined (reading 'trim')",
+  level: 'error',
+  timestamp: '2025-08-05 18:59:56'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 18:59:56'
+}
+{
+  message: "Booking Error: Cannot read properties of undefined (reading 'trim')",
+  level: 'error',
+  timestamp: '2025-08-05 19:01:05'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 19:01:05'
+}
+{
+  message: "Booking Error: Cannot read properties of undefined (reading 'trim')",
+  level: 'error',
+  timestamp: '2025-08-05 19:02:48'
+}
+{
+  message: 'No response from server',
+  level: 'error',
+  timestamp: '2025-08-05 19:02:48'
+}
