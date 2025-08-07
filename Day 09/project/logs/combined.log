@@ -1,0 +1,5820 @@
+{"level":"info","message":"Server running on port 6262","timestamp":"2025-07-02T08:31:23.457Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-07-02T08:31:23.470Z"}
+{"level":"info","message":"Server running on port 6262","timestamp":"2025-07-02T08:31:43.884Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-07-02T08:31:43.897Z"}
+{"level":"info","message":"Server running on port 6262","timestamp":"2025-07-02T08:31:48.194Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-07-02T08:31:48.207Z"}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:03:04'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:03:04'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:05:04'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:05:04'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:14:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:14:16'
+}
+{
+  level: 'error',
+  message: "Register error Cannot destructure property 'username' of 'req.body' as it is undefined.",
+  stack: "TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.\n" +
+    '    at register (I:\\Job\\Day 09\\project\\controllers\\auth.controller.js:6:15)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at I:\\Job\\Day 09\\project\\utils\\validation.util.js:4:3\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:295:15',
+  timestamp: '2025-07-02 14:15:18'
+}
+{
+  level: 'error',
+  message: "Register error Cannot destructure property 'username' of 'req.body' as it is undefined.",
+  stack: "TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.\n" +
+    '    at register (I:\\Job\\Day 09\\project\\controllers\\auth.controller.js:6:15)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at I:\\Job\\Day 09\\project\\utils\\validation.util.js:4:3\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:295:15',
+  timestamp: '2025-07-02 14:15:36'
+}
+{
+  level: 'error',
+  message: "Register error Cannot destructure property 'username' of 'req.body' as it is undefined.",
+  stack: "TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.\n" +
+    '    at register (I:\\Job\\Day 09\\project\\controllers\\auth.controller.js:6:15)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at I:\\Job\\Day 09\\project\\utils\\validation.util.js:4:3\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:295:15',
+  timestamp: '2025-07-02 14:16:17'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:17:09'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:17:09'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:18:09'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:18:09'
+}
+{
+  level: 'error',
+  message: "Register error Cannot destructure property 'username' of 'req.body' as it is undefined.",
+  stack: "TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.\n" +
+    '    at register (I:\\Job\\Day 09\\project\\controllers\\auth.controller.js:6:15)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at I:\\Job\\Day 09\\project\\utils\\validation.util.js:4:3\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:295:15',
+  timestamp: '2025-07-02 14:18:14'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:20:07'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:20:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:20:10'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:20:10'
+}
+{
+  level: 'error',
+  message: "Register error Cannot destructure property 'username' of 'req.body' as it is undefined.",
+  stack: "TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.\n" +
+    '    at register (I:\\Job\\Day 09\\project\\controllers\\auth.controller.js:6:15)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at I:\\Job\\Day 09\\project\\utils\\validation.util.js:4:3\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:295:15',
+  timestamp: '2025-07-02 14:20:14'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:20:28'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:20:28'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:20:31'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:20:31'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:20:34'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:20:34'
+}
+{
+  level: 'error',
+  message: "Register error Cannot destructure property 'username' of 'req.body' as it is undefined.",
+  stack: "TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.\n" +
+    '    at register (I:\\Job\\Day 09\\project\\controllers\\auth.controller.js:6:15)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at I:\\Job\\Day 09\\project\\utils\\validation.util.js:4:3\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:295:15',
+  timestamp: '2025-07-02 14:20:40'
+}
+{
+  message: 'User registered: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 14:23:08'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:23:55'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:23:55'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:02'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:02'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:04'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:04'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:08'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:08'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:28'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:28'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:31'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:31'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:36'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:36'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:39'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:39'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:44'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:44'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:52'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:52'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:24:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:25:10'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:25:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:25:18'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:25:18'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:25:20'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:25:20'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:25:34'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:25:34'
+}
+{
+  message: 'User registered: sabari@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 14:26:23'
+}
+{
+  message: 'User registered: somu@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 14:27:08'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:30:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:30:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:30:35'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:30:35'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 14:30:38'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 14:30:38'
+}
+{
+  errorLabelSet: Set(0) {},
+  errorResponse: {
+    index: 0,
+    code: 11000,
+    errmsg: 'E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+    keyPattern: { email: 1 },
+    keyValue: { email: 'somu@gmail.com' }
+  },
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'somu@gmail.com' },
+  level: 'error',
+  message: 'Register error E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }\n' +
+    '    at InsertOneOperation.execute (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  timestamp: '2025-07-02 14:30:55'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:19:36'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:19:36'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:19:38'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:19:38'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:19:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:19:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:19:42'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:19:42'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:22:02'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:22:02'
+}
+{
+  errorLabelSet: Set(0) {},
+  errorResponse: {
+    index: 0,
+    code: 11000,
+    errmsg: 'E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+    keyPattern: { email: 1 },
+    keyValue: { email: 'somu@gmail.com' }
+  },
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'somu@gmail.com' },
+  level: 'error',
+  message: 'Register error E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }\n' +
+    '    at InsertOneOperation.execute (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  timestamp: '2025-07-02 15:22:04'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:22:11'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:22:11'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:22:22'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:22:22'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:22:28'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:22:28'
+}
+{
+  errorLabelSet: Set(0) {},
+  errorResponse: {
+    index: 0,
+    code: 11000,
+    errmsg: 'E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+    keyPattern: { email: 1 },
+    keyValue: { email: 'somu@gmail.com' }
+  },
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'somu@gmail.com' },
+  level: 'error',
+  message: 'Register error E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }\n' +
+    '    at InsertOneOperation.execute (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  timestamp: '2025-07-02 15:22:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:22:58'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:22:58'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:22:59'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:22:59'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:23:02'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:23:02'
+}
+{
+  errorLabelSet: Set(0) {},
+  errorResponse: {
+    index: 0,
+    code: 11000,
+    errmsg: 'E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+    keyPattern: { email: 1 },
+    keyValue: { email: 'somu@gmail.com' }
+  },
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'somu@gmail.com' },
+  level: 'error',
+  message: 'Register error E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }\n' +
+    '    at InsertOneOperation.execute (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  timestamp: '2025-07-02 15:23:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:23:35'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:23:35'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:23:37'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:23:37'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:23:38'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:23:38'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:23:43'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:23:43'
+}
+{
+  errorLabelSet: Set(0) {},
+  errorResponse: {
+    index: 0,
+    code: 11000,
+    errmsg: 'E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+    keyPattern: { email: 1 },
+    keyValue: { email: 'somu@gmail.com' }
+  },
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'somu@gmail.com' },
+  level: 'error',
+  message: 'Register error E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }\n' +
+    '    at InsertOneOperation.execute (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  timestamp: '2025-07-02 15:23:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:24:05'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:24:05'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:24:09'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:24:09'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:24:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:24:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:24:57'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:24:57'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:25:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:25:31'
+}
+{
+  errorLabelSet: Set(0) {},
+  errorResponse: {
+    index: 0,
+    code: 11000,
+    errmsg: 'E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+    keyPattern: { email: 1 },
+    keyValue: { email: 'somu@gmail.com' }
+  },
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'somu@gmail.com' },
+  level: 'error',
+  message: 'Register error E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }\n' +
+    '    at InsertOneOperation.execute (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  timestamp: '2025-07-02 15:25:35'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:25:47'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:25:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:25:49'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:25:49'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:26:24'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:26:24'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:26:35'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:26:35'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:26:38'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:26:38'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:26:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:26:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:26:48'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:26:48'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:27:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:27:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:27:34'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:27:34'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:27:50'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:27:50'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:27:52'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:27:52'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:27:56'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:27:56'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:28:00'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:28:00'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:28:45'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:28:45'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:28:49'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:28:49'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:28:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:28:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:28:56'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:28:56'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:30:57'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:30:57'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:30:59'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:30:59'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:31:07'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:31:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:31:09'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:31:09'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:31:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:31:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:31:58'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:31:58'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:02'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:02'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:07'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:10'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:15'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:15'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:17'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:17'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:27'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:32:27'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:33:50'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:33:50'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:11'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:11'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:19'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:19'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:27'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:28'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:33'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:33'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:36'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:36'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:39'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:34:39'
+}
+{
+  message: 'User registered: sanjay@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 15:36:13'
+}
+{
+  message: 'User registered: suriya@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 15:36:28'
+}
+{
+  message: 'User logged in: suriya@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 15:37:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:37:44'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:37:44'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:10'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:21'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:21'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:23'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:23'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:25'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:25'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:27'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:27'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:36'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:36'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:40'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:40'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:48'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:38:48'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:39:02'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:39:02'
+}
+{
+  message: 'User logged in: suriya@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 15:39:04'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:42:40'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:42:40'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:42:43'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:42:43'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:42:47'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:42:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:42:48'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:42:48'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:43:15'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:43:15'
+}
+{
+  message: 'Profile image uploaded: suriya@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 15:43:19'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:44:47'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:44:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:44:49'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:44:49'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:44:57'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:44:57'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:44:59'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:44:59'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:01'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:01'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:08'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:08'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:22'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:22'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:28'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:28'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:31'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:31'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:33'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:33'
+}
+{
+  message: 'Profile image uploaded: suriya@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 15:45:44'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 15:47:52'
+}
+{
+  message: 'Report submitted: suriya@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 15:52:47'
+}
+{
+  message: 'User logged in: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 15:55:21'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:57:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:57:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:59:37'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:59:37'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:59:39'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:59:39'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 15:59:45'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 15:59:45'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:00:04'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:00:04'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:00:07'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:00:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:00:09'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:00:09'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:00:15'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:00:15'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:06:23'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:06:23'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:06:35'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:06:35'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:06:45'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:06:45'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:06:55'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:06:55'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:07:22'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:07:22'
+}
+{
+  message: 'Report submitted: suriya@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 16:07:42'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:08:47'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:08:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:08:55'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:08:55'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:08:57'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:08:57'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:10:12'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:10:12'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:10:14'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:10:14'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:10:21'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:10:21'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:10:52'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:10:52'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:11:00'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:11:00'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:14:24'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:14:24'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:15:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:15:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:16:04'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:16:04'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:16:06'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:16:06'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:16:44'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:16:44'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:24:40'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:24:40'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:24:50'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:24:50'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:24:55'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:24:55'
+}
+{
+  message: 'Report submitted: suriya@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 16:25:46'
+}
+{
+  message: 'Report submitted: suriya@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 16:26:30'
+}
+{
+  message: 'Report submitted: suriya@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 16:27:35'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:36:31'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:36:31'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:36:47'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:36:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:37:42'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:37:43'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:38:38'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:38:38'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:38:43'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:38:43'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:38:46'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:38:46'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:39:21'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:39:21'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:39:24'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:39:24'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:39:25'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:39:25'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:42:15'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:42:15'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:42:20'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:42:20'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:42:36'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:42:37'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:43:46'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:43:46'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 16:43:50'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:46:46'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:46:46'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:47:15'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:47:15'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:48:02'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:48:02'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:49:18'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:49:18'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:49:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:49:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:49:47'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:49:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:50:01'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:50:01'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 16:50:22'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:51:00'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:51:00'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:51:07'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:51:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:51:08'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:51:08'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:51:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:51:16'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 16:51:26'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:55:06'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:55:06'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:55:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:55:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:55:18'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:55:18'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:55:48'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:55:49'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:55:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:55:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:55:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:55:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:57:26'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:57:26'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:57:31'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:57:31'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:57:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:57:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:57:46'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:57:46'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:57:49'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:57:49'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:57:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:57:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:01'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:01'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:03'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:35'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:35'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:44'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:44'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:48'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:48'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:58:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:59:12'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:59:12'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:59:14'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:59:14'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:59:19'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:59:19'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:59:55'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:59:55'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 16:59:58'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 16:59:58'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:00:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:00:03'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:14:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:14:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:01'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:01'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:04'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:04'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:06'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:06'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:22'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:22'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:27'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:27'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:32'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:32'
+}
+{
+  message: 'User logged in: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:35'
+}
+{
+  message: 'User logged in: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 17:15:58'
+}
+{
+  message: 'User registered: vishnu@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 17:21:55'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:26:58'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:26:58'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:27:40'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:27:40'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:27:44'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:27:44'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:27:49'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:27:49'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:27:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:27:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:28:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:28:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:29:07'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:29:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:29:10'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:29:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:29:38'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:29:38'
+}
+{
+  message: 'User registered: siva@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:05'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:23'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:23'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:36'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:36'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:40'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:40'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:43'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:43'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:30:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:31:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:31:03'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:31:05'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:31:05'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:31:12'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:31:12'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:31:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:31:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:53:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:53:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:53:40'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:53:40'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:53:47'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:53:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:54:12'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:54:12'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:54:17'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:54:17'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:54:19'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:54:19'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:54:48'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:54:48'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 17:55:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:56:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:56:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:56:28'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:56:28'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:56:32'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:56:32'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 17:56:36'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 17:56:36'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 17:57:31'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:05:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:05:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:05:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:05:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:06:06'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:06:06'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:06:08'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:06:08'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:06:34'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:06:34'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:06:37'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:06:37'
+}
+{
+  message: 'User registered: kumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 18:07:14'
+}
+{
+  message: 'User registered: prakash@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 18:08:23'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:09:34'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:09:34'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:10:12'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:10:12'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:10:24'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:10:24'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:10:29'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:10:29'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:10:40'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:10:40'
+}
+{
+  message: 'User registered: ram@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 18:11:22'
+}
+{
+  message: 'User registered: ramkumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 18:11:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:12:46'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:12:46'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:12:48'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:12:48'
+}
+{
+  message: 'User registered: ramkumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 18:12:56'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:15:37'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:15:37'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 18:20:35'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:35:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:35:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:37:10'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:37:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:37:21'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:37:21'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:37:25'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:37:25'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:37:38'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:37:38'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:57:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:57:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:58:06'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:58:06'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:58:24'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:58:24'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:58:26'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:58:26'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:58:40'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:58:40'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:59:20'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:59:20'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:59:20'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:59:20'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:59:23'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:59:23'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:59:24'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:59:24'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:59:31'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:59:31'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 18:59:31'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 18:59:31'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:01:09'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 19:01:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:02:50'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:02:50'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:02:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:02:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:02:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:02:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:02:57'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:02:57'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:02:58'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:02:58'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:00'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:00'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:00'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:00'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:03'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:03'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:17'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:17'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:25'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 19:03:26'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:43'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:43'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:44'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:44'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:03:48'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 19:03:49'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:07:17'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 19:07:18'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:12:27'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 19:12:29'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:13:18'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 19:13:19'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:16:37'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:16:37'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:16:37'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:16:37'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:16:39'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:16:39'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:16:39'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:16:39'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:16:52'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:16:52'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:16:52'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:16:52'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:02'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:02'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:02'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:02'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:06'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:06'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:07'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:07'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:10'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:10'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:20'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:20'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:20'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:17:20'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:25'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:25'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:26'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:26'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:29'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:29'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:29'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:29'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:31'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:31'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:32'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:32'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:32'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:32'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:33'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:33'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:34'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:34'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:42'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:19:42'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:12'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:12'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:12'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:12'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:23'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:23'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:24'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:24'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:29'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:29'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:29'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:29'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:31'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:31'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:32'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:32'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:20:50'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:22:23'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:08'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:08'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:08'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:08'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:33'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:33'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:33'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:33'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:43'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:43'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:43'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:43'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:55'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:55'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:58'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:58'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:58'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:23:58'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:00'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:00'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:01'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:01'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:01'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:01'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:03'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:03'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:05'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:05'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:05'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:05'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:08'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:08'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:09'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:09'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:21'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:21'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:21'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:21'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:33'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:33'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:33'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:33'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:49'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:49'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:50'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:24:50'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:01'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:01'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:01'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:01'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:03'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:03'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:23'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:23'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:23'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:23'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:25:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:26:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:26:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:26:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:26:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:26:56'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:26:56'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:26:56'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:26:56'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:00'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:00'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:00'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:00'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:14'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:14'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:14'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:14'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:15'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:15'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:15'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:37'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:37'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:37'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:37'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:43'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:43'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:43'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:43'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:55'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:55'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:56'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:56'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:56'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:56'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:59'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:27:59'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:00'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:00'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:07'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:07'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:17'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:17'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:18'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:18'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:26'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:26'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:26'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:26'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:28'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:28'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:29'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:29'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:32'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:32'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:33'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:33'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:36'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:36'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:37'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:37'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:42'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:42'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:47'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:48'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:48'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:28:59'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:30:06'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:30:06'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:30:06'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:30:06'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:30:09'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:30:09'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:30:09'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:30:09'
+}
+{
+  message: 'Report submitted: sivakumar@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:30:12'
+}
+{
+  message: 'User registered: sivakumarrconline@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:30:58'
+}
+{
+  message: 'User logged in: sivakumarrconline@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:31:09'
+}
+{
+  message: 'Report submitted: sivakumarrconline@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 19:31:37'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:32:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:32:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:32:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:32:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:32:50'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:32:50'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:32:50'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:32:50'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:32:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:32:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:33:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:33:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:33:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:33:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:33:25'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:33:25'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:33:25'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:33:25'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:36:45'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:36:45'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:36:45'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:36:45'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:36:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:36:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:36:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:36:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:36:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:36:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:36:55'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:36:55'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:37:06'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:37:06'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:37:07'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:37:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:37:46'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:37:46'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:37:47'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:37:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:39:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:39:03'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:39:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:39:03'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:51:10'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:51:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:51:10'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:51:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:51:12'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:51:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:51:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:51:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:58:42'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:58:42'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 19:58:42'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 19:58:42'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 20:03:12'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 20:03:12'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 20:03:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 20:03:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 20:05:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 20:05:17'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 20:05:17'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 20:05:17'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 20:07:46'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 20:07:46'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 20:07:47'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 20:07:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 20:08:01'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 20:08:02'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 20:08:02'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 20:08:02'
+}
+{
+  message: 'User registered: prasanna@yahoo.com',
+  level: 'info',
+  timestamp: '2025-07-02 20:21:39'
+}
+{
+  message: 'User registered: prasanna@yopmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 20:22:05'
+}
+{
+  message: 'User logged in: prasanna@yopmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 20:22:32'
+}
+{
+  message: 'Report submitted: prasanna@yopmail.com',
+  level: 'info',
+  timestamp: '2025-07-02 20:24:07'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-02 20:28:43'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-02 20:28:43'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:12:58'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:12:58'
+}
+{
+  message: 'User registered: bala@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 10:14:15'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:14:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:14:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:14:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:14:51'
+}
+{
+  message: 'User registered: bala@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 10:15:31'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:15:50'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:15:50'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:15:57'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:15:57'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:16:00'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:16:00'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:17:27'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:17:27'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:37:16'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:37:16'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:37:25'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:37:25'
+}
+{
+  message: 'User registered: bala@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 10:40:05'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:41:12'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:41:12'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:44:57'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:44:57'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:45:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:45:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:45:24'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:45:24'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:46:12'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:46:12'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:49:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:49:03'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 10:49:04'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 10:49:04'
+}
+{
+  message: 'User registered: v.suriyaprakash3914@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 10:52:29'
+}
+{
+  message: 'User logged in: v.suriyaprakash3914@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 10:52:52'
+}
+{
+  message: 'Report submitted: v.suriyaprakash3914@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 10:53:47'
+}
+{
+  message: 'User registered: somukstew@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 10:55:03'
+}
+{
+  message: 'User logged in: somukstew@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 10:55:24'
+}
+{
+  message: 'Report submitted: somukstew@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 10:56:06'
+}
+{
+  message: 'Profile image uploaded: somukstew@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 11:01:02'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:08:56'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:08:56'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:09:02'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:09:02'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:09:07'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:09:07'
+}
+{
+  message: 'Profile image uploaded: v.suriyaprakash3914@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 11:09:56'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:10:10'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:10:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:10:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:10:14'
+}
+{
+  message: 'Profile image uploaded: v.suriyaprakash3914@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 11:10:27'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:12:18'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:12:18'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:12:21'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:12:21'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:12:23'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:12:23'
+}
+{
+  message: 'Profile image uploaded: somukstew@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 11:13:28'
+}
+{
+  message: 'Profile image uploaded: somukstew@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 11:13:45'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:33:27'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:33:27'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:39:36'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:39:36'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:40:48'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:40:48'
+}
+{
+  message: 'User registered: sivakumarrconline@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 11:41:21'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:42:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:42:41'
+}
+{
+  message: 'User logged in: sivakumarrconline@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 11:43:31'
+}
+{
+  message: 'Report submitted: sivakumarrconline@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 11:44:08'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:50:17'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:50:17'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:56:43'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:56:43'
+}
+{
+  message: 'Profile image uploaded: sivakumarrconline@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 11:59:12'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 11:59:55'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 11:59:55'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:00:04'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:00:04'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:00:14'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:00:14'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:10:23'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:10:23'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:10:35'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:10:35'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:12:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:12:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:14:42'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:14:42'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:14:46'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:14:46'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:14:51'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:14:51'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:06'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:06'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:10'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:11'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:11'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:14'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:14'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:22'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:22'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:24'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:24'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:34'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:34'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:39'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:39'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:55'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:55'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:59'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:15:59'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:16:04'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:16:04'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:16:08'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:16:08'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:16:27'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:16:27'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:16:55'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:16:55'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:17:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:17:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:17:19'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:17:19'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:17:32'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:17:32'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:17:34'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:17:34'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:01'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:01'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:03'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:03'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:05'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:05'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:09'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:09'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:15'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:15'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:21'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:21'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:26'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:26'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:29'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:29'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:32'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:18:32'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:01'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:01'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:04'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:04'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:08'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:08'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:20'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:20'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:25'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:25'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:35'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:35'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:47'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:50'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:19:50'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 12:20:01'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 12:20:01'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:01:42'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:01:42'
+}
+{
+  message: 'User logged in: sivakumarrconline@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 14:04:07'
+}
+{
+  message: 'User logged in: sivakumarrconline@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 14:04:10'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:05:46'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:05:46'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:17'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:17'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:23'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:23'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:31'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:31'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:34'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:34'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:48'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:48'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:50'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:50'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:54'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:54'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:59'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:06:59'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:08:27'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:08:27'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:08:30'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:08:30'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:08:32'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:08:32'
+}
+{
+  message: 'Report submitted: sivakumarrconline@gmail.com',
+  level: 'info',
+  timestamp: '2025-07-03 14:08:47'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:14:13'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:14:13'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:18:28'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:18:28'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:18:41'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:18:41'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:18:42'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:18:42'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:18:44'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:18:44'
+}
+{
+  message: 'Server running on port 6262',
+  level: 'info',
+  timestamp: '2025-07-03 14:29:43'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  timestamp: '2025-07-03 14:29:43'
+}

@@ -1,0 +1,269 @@
+{
+  level: 'error',
+  message: "Register error Cannot destructure property 'username' of 'req.body' as it is undefined.",
+  stack: "TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.\n" +
+    '    at register (I:\\Job\\Day 09\\project\\controllers\\auth.controller.js:6:15)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at I:\\Job\\Day 09\\project\\utils\\validation.util.js:4:3\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:295:15',
+  timestamp: '2025-07-02 14:15:18'
+}
+{
+  level: 'error',
+  message: "Register error Cannot destructure property 'username' of 'req.body' as it is undefined.",
+  stack: "TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.\n" +
+    '    at register (I:\\Job\\Day 09\\project\\controllers\\auth.controller.js:6:15)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at I:\\Job\\Day 09\\project\\utils\\validation.util.js:4:3\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:295:15',
+  timestamp: '2025-07-02 14:15:36'
+}
+{
+  level: 'error',
+  message: "Register error Cannot destructure property 'username' of 'req.body' as it is undefined.",
+  stack: "TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.\n" +
+    '    at register (I:\\Job\\Day 09\\project\\controllers\\auth.controller.js:6:15)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at I:\\Job\\Day 09\\project\\utils\\validation.util.js:4:3\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:295:15',
+  timestamp: '2025-07-02 14:16:17'
+}
+{
+  level: 'error',
+  message: "Register error Cannot destructure property 'username' of 'req.body' as it is undefined.",
+  stack: "TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.\n" +
+    '    at register (I:\\Job\\Day 09\\project\\controllers\\auth.controller.js:6:15)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at I:\\Job\\Day 09\\project\\utils\\validation.util.js:4:3\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:295:15',
+  timestamp: '2025-07-02 14:18:14'
+}
+{
+  level: 'error',
+  message: "Register error Cannot destructure property 'username' of 'req.body' as it is undefined.",
+  stack: "TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.\n" +
+    '    at register (I:\\Job\\Day 09\\project\\controllers\\auth.controller.js:6:15)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at I:\\Job\\Day 09\\project\\utils\\validation.util.js:4:3\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:295:15',
+  timestamp: '2025-07-02 14:20:14'
+}
+{
+  level: 'error',
+  message: "Register error Cannot destructure property 'username' of 'req.body' as it is undefined.",
+  stack: "TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.\n" +
+    '    at register (I:\\Job\\Day 09\\project\\controllers\\auth.controller.js:6:15)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at I:\\Job\\Day 09\\project\\utils\\validation.util.js:4:3\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at next (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:157:13)\n' +
+    '    at Route.dispatch (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\route.js:117:3)\n' +
+    '    at handle (I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:435:11)\n' +
+    '    at Layer.handleRequest (I:\\Job\\Day 09\\project\\node_modules\\router\\lib\\layer.js:152:17)\n' +
+    '    at I:\\Job\\Day 09\\project\\node_modules\\router\\index.js:295:15',
+  timestamp: '2025-07-02 14:20:40'
+}
+{
+  errorLabelSet: Set(0) {},
+  errorResponse: {
+    index: 0,
+    code: 11000,
+    errmsg: 'E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+    keyPattern: { email: 1 },
+    keyValue: { email: 'somu@gmail.com' }
+  },
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'somu@gmail.com' },
+  level: 'error',
+  message: 'Register error E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }\n' +
+    '    at InsertOneOperation.execute (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  timestamp: '2025-07-02 14:30:55'
+}
+{
+  errorLabelSet: Set(0) {},
+  errorResponse: {
+    index: 0,
+    code: 11000,
+    errmsg: 'E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+    keyPattern: { email: 1 },
+    keyValue: { email: 'somu@gmail.com' }
+  },
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'somu@gmail.com' },
+  level: 'error',
+  message: 'Register error E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }\n' +
+    '    at InsertOneOperation.execute (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  timestamp: '2025-07-02 15:22:04'
+}
+{
+  errorLabelSet: Set(0) {},
+  errorResponse: {
+    index: 0,
+    code: 11000,
+    errmsg: 'E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+    keyPattern: { email: 1 },
+    keyValue: { email: 'somu@gmail.com' }
+  },
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'somu@gmail.com' },
+  level: 'error',
+  message: 'Register error E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }\n' +
+    '    at InsertOneOperation.execute (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  timestamp: '2025-07-02 15:22:30'
+}
+{
+  errorLabelSet: Set(0) {},
+  errorResponse: {
+    index: 0,
+    code: 11000,
+    errmsg: 'E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+    keyPattern: { email: 1 },
+    keyValue: { email: 'somu@gmail.com' }
+  },
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'somu@gmail.com' },
+  level: 'error',
+  message: 'Register error E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }\n' +
+    '    at InsertOneOperation.execute (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  timestamp: '2025-07-02 15:23:07'
+}
+{
+  errorLabelSet: Set(0) {},
+  errorResponse: {
+    index: 0,
+    code: 11000,
+    errmsg: 'E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+    keyPattern: { email: 1 },
+    keyValue: { email: 'somu@gmail.com' }
+  },
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'somu@gmail.com' },
+  level: 'error',
+  message: 'Register error E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }\n' +
+    '    at InsertOneOperation.execute (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  timestamp: '2025-07-02 15:23:47'
+}
+{
+  errorLabelSet: Set(0) {},
+  errorResponse: {
+    index: 0,
+    code: 11000,
+    errmsg: 'E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+    keyPattern: { email: 1 },
+    keyValue: { email: 'somu@gmail.com' }
+  },
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'somu@gmail.com' },
+  level: 'error',
+  message: 'Register error E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: dailyreport.users index: email_1 dup key: { email: "somu@gmail.com" }\n' +
+    '    at InsertOneOperation.execute (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\insert.js:51:19)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async tryOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:207:20)\n' +
+    '    at async executeOperation (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n' +
+    '    at async Collection.insertOne (I:\\Job\\Day 09\\project\\node_modules\\mongodb\\lib\\collection.js:157:16)',
+  timestamp: '2025-07-02 15:25:35'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 15:47:52'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 19:01:10'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 19:03:26'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 19:03:49'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 19:07:18'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 19:12:29'
+}
+{
+  level: 'error',
+  message: 'Report submission error',
+  timestamp: '2025-07-02 19:13:19'
+}
