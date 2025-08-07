@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paypal Node</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            margin-bottom: 30px;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            gap: 40px; 
+        }
+
+        .Module-1{
+            border: 1px solid #ccc;
+            padding: 20px;
+            width: 250px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+        } .Module-2 {
+            border: 1px solid #ccc;
+            padding: 20px;
+            width: 250px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        ul {
+            text-align: left;
+        }
+
+        input[type="submit"] {
+            margin-top: 10px;
+            padding: 10px 20px;
+            background-color: #0070ba;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #005a94;
+        }
+    </style>
+</head>
+<body>
+
+    <center>
+        <h1>Post your Creation</h1>
+    </center>
+
+    <div class="container">
+        <div class="Module-1">
+            <ul>
+                <li>You can create a post</li>
+                <li>You can like posts</li>
+                <li>You can comment on posts</li>
+                <li>You can share posts</li>
+            </ul>
+            <h3>Price: 10 Dollar</h3>
+            <form action="/api/payment/create-order" method="get">
+                <input type="hidden" name="tempPostId" value="<%= tempPostId %>" />
+                <input type="hidden" name="plan" value="basic" />
+                <input type="submit" value="Buy">
+              </form>
+        </div>
+    
+        <div class="Module-2">
+            <ul>
+                <li>You can read all the comments posted by everyone</li>
+                <li>You can like a reply comment</li>
+                <li>You can reply to a comment</li>
+                <li>You can send a message</li>
+                <li>You can create a post</li>
+                <li>You can like posts</li>
+                <li>You can comment on posts</li>
+                <li>You can share posts</li>
+                <li>You can share posts</li>
+            </ul>
+            <h3>Price: 20 Dollar</h3>
+            <form action="/api/payment/create-order" method="get">
+                <input type="hidden" name="tempPostId" value="<%= tempPostId %>" />
+                <input type="hidden" name="plan" value="pro" />
+                <input type="submit" value="Buy" />
+            </form>
+        </div>
+    </div>
+    
+</body>
+</html>
